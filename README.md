@@ -1,5 +1,13 @@
 # Toast manual.
 
+related links:
+- [discussion on reddit](https://www.reddit.com/r/osdev/comments/1giiep1/discussion_of_a_bumping_idea_from_my_head_about/)
+
+problem behind the idea: (Thanks to everyone left a comment here)
+- unnecessarity of put torrent in kernel level, cause if i want speed up during the installation part, a network boot is enough.
+- same for use torrent base package manager.
+
+
 > [!NOTE]  
 > toast till 11/05/2024 is just a idea, there's no any official bootable image or distribution.
 > and toast is almost useless without internet.
