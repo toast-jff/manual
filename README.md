@@ -4,7 +4,7 @@ related links:
 - [discussion on reddit](https://www.reddit.com/r/osdev/comments/1giiep1/discussion_of_a_bumping_idea_from_my_head_about/)
 
 problem behind the idea: (Thanks to everyone left a comment here)
-- unnecessarity of put torrent in kernel level, cause if i want speed up during the installation part, a network boot is enough.
+- unnecessarity of put torrent in kernel level, cause if i want speed up during the installation part, a network UEFI/BIOS support for torrent is enough.
 - same for use torrent base package manager.
 
 
